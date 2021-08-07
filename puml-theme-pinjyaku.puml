@@ -1,0 +1,5 @@
+!theme superhero-outline
+skinparam Default {
+	FontName AR PL UKai CN
+	FontSize 16
+}
